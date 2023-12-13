@@ -1,0 +1,6 @@
+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
+
+from terminal: SHA256:pPK1ScpcWgjKYtPyuRZkBel2dpRN6WPrxhPeeVjsvDM skulcrushr@skulcrushr
+
+
+bitbucket app password: ATBBZ9jwwqmgexMRBFBRgnb6j6BaC415BB81
